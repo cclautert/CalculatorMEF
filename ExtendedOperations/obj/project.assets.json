@@ -1,0 +1,147 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "System.ComponentModel.Composition/5.0.0": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.ComponentModel.Composition.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/System.ComponentModel.Composition.dll": {}
+        }
+      },
+      "CoreOperations/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "System.ComponentModel.Composition": "5.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CoreOperations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CoreOperations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.ComponentModel.Composition/5.0.0": {
+      "sha512": "YL8iA3VOFxhyomn7FxtBgh3F+8XG5jOfT5UcqYLtkafSa6g6alQfKZuRwlEIWe+tzH6OVnj0Ekg5tn/DmV7SkQ==",
+      "type": "package",
+      "path": "system.componentmodel.composition/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/netcoreapp2.0/System.ComponentModel.Composition.dll",
+        "lib/netcoreapp2.0/System.ComponentModel.Composition.xml",
+        "lib/netstandard2.0/System.ComponentModel.Composition.dll",
+        "lib/netstandard2.0/System.ComponentModel.Composition.xml",
+        "lib/uap10.0.16299/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/netstandard2.0/System.ComponentModel.Composition.dll",
+        "ref/netstandard2.0/System.ComponentModel.Composition.xml",
+        "ref/uap10.0.16299/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.componentmodel.composition.5.0.0.nupkg.sha512",
+        "system.componentmodel.composition.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "CoreOperations/1.0.0": {
+      "type": "project",
+      "path": "../BasicOperations/CoreOperations.csproj",
+      "msbuildProject": "../BasicOperations/CoreOperations.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "CoreOperations >= 1.0.0",
+      "System.ComponentModel.Composition >= 5.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Cristiano.Lautert\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\ExtendedOperations\\ExtendedOperations.csproj",
+      "projectName": "ExtendedOperations",
+      "projectPath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\ExtendedOperations\\ExtendedOperations.csproj",
+      "packagesPath": "C:\\Users\\Cristiano.Lautert\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\ExtendedOperations\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Cristiano.Lautert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\BasicOperations\\CoreOperations.csproj": {
+              "projectPath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\BasicOperations\\CoreOperations.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "System.ComponentModel.Composition": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

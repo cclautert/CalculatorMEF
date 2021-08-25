@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l63NMKTYgolUnaFEQiLGR/r8gE67tt3M3SmROHRe2tbK3M49jRGCGPBuAUhbhIVTGKOsrU5ky8XC4aA5IhLc9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\CalculatorMEF\\CalculatorMEF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristiano.Lautert\\.nuget\\packages\\system.componentmodel.composition\\5.0.0\\system.componentmodel.composition.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

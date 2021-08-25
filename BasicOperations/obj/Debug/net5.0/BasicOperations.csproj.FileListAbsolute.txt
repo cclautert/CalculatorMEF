@@ -1,0 +1,11 @@
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF\BasicOperations\bin\Debug\net5.0\BasicOperations.deps.json
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF\BasicOperations\bin\Debug\net5.0\BasicOperations.dll
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF\BasicOperations\bin\Debug\net5.0\ref\BasicOperations.dll
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF\BasicOperations\bin\Debug\net5.0\BasicOperations.pdb
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF\BasicOperations\obj\Debug\net5.0\BasicOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF\BasicOperations\obj\Debug\net5.0\BasicOperations.AssemblyInfoInputs.cache
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF\BasicOperations\obj\Debug\net5.0\BasicOperations.AssemblyInfo.cs
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF\BasicOperations\obj\Debug\net5.0\BasicOperations.csproj.CoreCompileInputs.cache
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF\BasicOperations\obj\Debug\net5.0\BasicOperations.dll
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF\BasicOperations\obj\Debug\net5.0\ref\BasicOperations.dll
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF\BasicOperations\obj\Debug\net5.0\BasicOperations.pdb
