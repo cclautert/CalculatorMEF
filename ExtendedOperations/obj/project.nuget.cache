@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+snfxCKqdnpu3F6XftzrwZoKyqsJ9GjxbwqrBi46kAyOsX+lgK79lUbpz/ulUEO2KwfgmBqjnidHT3rmsNfieA==",
+  "dgSpecHash": "xxmdoXIOcMsHtmlRivw8bmksKqmgqVvbzidph4qSB6fScbI9r5mcdwnymCg0saoWiLGomW9y4AAY9oFvvQoXsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\ExtendedOperations\\ExtendedOperations.csproj",
+  "projectFilePath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF_2\\CalculatorMEF\\ExtendedOperations\\ExtendedOperations.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cristiano.Lautert\\.nuget\\packages\\system.componentmodel.composition\\5.0.0\\system.componentmodel.composition.5.0.0.nupkg.sha512"
   ],

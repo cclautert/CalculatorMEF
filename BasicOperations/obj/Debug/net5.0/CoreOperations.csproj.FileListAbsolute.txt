@@ -9,4 +9,14 @@ C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF\BasicOperations\obj\Debug\
 C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF\BasicOperations\obj\Debug\net5.0\CoreOperations.dll
 C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF\BasicOperations\obj\Debug\net5.0\ref\CoreOperations.dll
 C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF\BasicOperations\obj\Debug\net5.0\CoreOperations.pdb
-C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF\BasicOperations\obj\Debug\net5.0\CoreOperations.csproj.AssemblyReference.cache
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF_2\CalculatorMEF\BasicOperations\bin\Debug\net5.0\CoreOperations.deps.json
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF_2\CalculatorMEF\BasicOperations\bin\Debug\net5.0\CoreOperations.dll
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF_2\CalculatorMEF\BasicOperations\bin\Debug\net5.0\ref\CoreOperations.dll
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF_2\CalculatorMEF\BasicOperations\bin\Debug\net5.0\CoreOperations.pdb
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF_2\CalculatorMEF\BasicOperations\obj\Debug\net5.0\CoreOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF_2\CalculatorMEF\BasicOperations\obj\Debug\net5.0\CoreOperations.AssemblyInfoInputs.cache
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF_2\CalculatorMEF\BasicOperations\obj\Debug\net5.0\CoreOperations.AssemblyInfo.cs
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF_2\CalculatorMEF\BasicOperations\obj\Debug\net5.0\CoreOperations.csproj.CoreCompileInputs.cache
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF_2\CalculatorMEF\BasicOperations\obj\Debug\net5.0\CoreOperations.dll
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF_2\CalculatorMEF\BasicOperations\obj\Debug\net5.0\ref\CoreOperations.dll
+C:\Users\Cristiano.Lautert\source\repos\CalculatorMEF_2\CalculatorMEF\BasicOperations\obj\Debug\net5.0\CoreOperations.pdb

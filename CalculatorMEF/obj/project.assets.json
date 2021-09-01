@@ -11,6 +11,50 @@
           "lib/netcoreapp2.0/System.ComponentModel.Composition.dll": {}
         }
       },
+      "System.Composition.AttributedModel/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/System.Composition.AttributedModel.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Composition.AttributedModel.dll": {}
+        }
+      },
+      "System.Composition.Hosting/5.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Composition.Runtime": "5.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Composition.Hosting.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Composition.Hosting.dll": {}
+        }
+      },
+      "System.Composition.Runtime/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/System.Composition.Runtime.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Composition.Runtime.dll": {}
+        }
+      },
+      "System.Composition.TypedParts/5.0.1": {
+        "type": "package",
+        "dependencies": {
+          "System.Composition.AttributedModel": "5.0.0",
+          "System.Composition.Hosting": "5.0.0",
+          "System.Composition.Runtime": "5.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Composition.TypedParts.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Composition.TypedParts.dll": {}
+        }
+      },
       "CoreOperations/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -65,6 +109,94 @@
         "version.txt"
       ]
     },
+    "System.Composition.AttributedModel/5.0.0": {
+      "sha512": "anAjtoOLdLbbxCPMgqozuQ3JVxq7s1b8Q0+jdoSbEVpWXcxY5rfJ7Ziy2Q4O2gl79eUWi94+1zspbBkXAQr2UA==",
+      "type": "package",
+      "path": "system.composition.attributedmodel/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Composition.AttributedModel.dll",
+        "lib/net461/System.Composition.AttributedModel.xml",
+        "lib/netstandard1.0/System.Composition.AttributedModel.dll",
+        "lib/netstandard2.0/System.Composition.AttributedModel.dll",
+        "lib/netstandard2.0/System.Composition.AttributedModel.xml",
+        "lib/portable-net45+win8+wp8+wpa81/System.Composition.AttributedModel.dll",
+        "system.composition.attributedmodel.5.0.0.nupkg.sha512",
+        "system.composition.attributedmodel.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Composition.Hosting/5.0.0": {
+      "sha512": "aSz04ywx0IwzmwbyXuNVKxmSVF0Uk+lgVIqurTY2XYUZ05rc1HTSdyfoYN+lYMseL0er8tA3ZJxWmWMYJc3a7w==",
+      "type": "package",
+      "path": "system.composition.hosting/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Composition.Hosting.dll",
+        "lib/net461/System.Composition.Hosting.xml",
+        "lib/netstandard1.0/System.Composition.Hosting.dll",
+        "lib/netstandard2.0/System.Composition.Hosting.dll",
+        "lib/netstandard2.0/System.Composition.Hosting.xml",
+        "lib/portable-net45+win8+wp8+wpa81/System.Composition.Hosting.dll",
+        "system.composition.hosting.5.0.0.nupkg.sha512",
+        "system.composition.hosting.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Composition.Runtime/5.0.0": {
+      "sha512": "CbYFiM4IuBD3WEsAZG0p8UnYs9QFyBTD77gQ0NYAQ6iUc9/6Btjk/Owm5mBxxLdazR+1+0pX5NtIbBnkGk4Lyw==",
+      "type": "package",
+      "path": "system.composition.runtime/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Composition.Runtime.dll",
+        "lib/net461/System.Composition.Runtime.xml",
+        "lib/netstandard1.0/System.Composition.Runtime.dll",
+        "lib/netstandard2.0/System.Composition.Runtime.dll",
+        "lib/netstandard2.0/System.Composition.Runtime.xml",
+        "lib/portable-net45+win8+wp8+wpa81/System.Composition.Runtime.dll",
+        "system.composition.runtime.5.0.0.nupkg.sha512",
+        "system.composition.runtime.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Composition.TypedParts/5.0.1": {
+      "sha512": "bcMXgG5ipPN0RlHYJuytrOJQz7/sR3dnquT3ZyuJWtYuZFJ7dgUNvAkPz2mxdf1itolEMTiHunAUxd17ofvPwQ==",
+      "type": "package",
+      "path": "system.composition.typedparts/5.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Composition.TypedParts.dll",
+        "lib/net461/System.Composition.TypedParts.xml",
+        "lib/netstandard1.0/System.Composition.TypedParts.dll",
+        "lib/netstandard2.0/System.Composition.TypedParts.dll",
+        "lib/netstandard2.0/System.Composition.TypedParts.xml",
+        "lib/portable-net45+win8+wp8+wpa81/System.Composition.TypedParts.dll",
+        "system.composition.typedparts.5.0.1.nupkg.sha512",
+        "system.composition.typedparts.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
     "CoreOperations/1.0.0": {
       "type": "project",
       "path": "../BasicOperations/CoreOperations.csproj",
@@ -74,7 +206,8 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "CoreOperations >= 1.0.0",
-      "System.ComponentModel.Composition >= 5.0.0"
+      "System.ComponentModel.Composition >= 5.0.0",
+      "System.Composition.TypedParts >= 5.0.1"
     ]
   },
   "packageFolders": {
@@ -83,11 +216,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\CalculatorMEF\\CalculatorMEF.csproj",
+      "projectUniqueName": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF_2\\CalculatorMEF\\CalculatorMEF\\CalculatorMEF.csproj",
       "projectName": "CalculatorMEF",
-      "projectPath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\CalculatorMEF\\CalculatorMEF.csproj",
+      "projectPath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF_2\\CalculatorMEF\\CalculatorMEF\\CalculatorMEF.csproj",
       "packagesPath": "C:\\Users\\Cristiano.Lautert\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\CalculatorMEF\\obj\\",
+      "outputPath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF_2\\CalculatorMEF\\CalculatorMEF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cristiano.Lautert\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -104,8 +237,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\BasicOperations\\CoreOperations.csproj": {
-              "projectPath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\BasicOperations\\CoreOperations.csproj"
+            "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF_2\\CalculatorMEF\\BasicOperations\\CoreOperations.csproj": {
+              "projectPath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF_2\\CalculatorMEF\\BasicOperations\\CoreOperations.csproj"
             }
           }
         }
@@ -123,6 +256,10 @@
           "System.ComponentModel.Composition": {
             "target": "Package",
             "version": "[5.0.0, )"
+          },
+          "System.Composition.TypedParts": {
+            "target": "Package",
+            "version": "[5.0.1, )"
           }
         },
         "imports": [

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cqm9D2NRWg3Z6QONCII0A4y9enYWFLD6gFazEkC5VowQo/mdbyRCvWy1zaby/SDOj34WHQqPqfJh9OBNLbgtaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF_2\\CalculatorMEF\\MultiplicationOperation\\MultiplicationOperation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristiano.Lautert\\.nuget\\packages\\system.componentmodel.composition\\5.0.0\\system.componentmodel.composition.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

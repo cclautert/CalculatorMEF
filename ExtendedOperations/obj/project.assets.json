@@ -83,11 +83,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\ExtendedOperations\\ExtendedOperations.csproj",
+      "projectUniqueName": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF_2\\CalculatorMEF\\ExtendedOperations\\ExtendedOperations.csproj",
       "projectName": "ExtendedOperations",
-      "projectPath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\ExtendedOperations\\ExtendedOperations.csproj",
+      "projectPath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF_2\\CalculatorMEF\\ExtendedOperations\\ExtendedOperations.csproj",
       "packagesPath": "C:\\Users\\Cristiano.Lautert\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\ExtendedOperations\\obj\\",
+      "outputPath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF_2\\CalculatorMEF\\ExtendedOperations\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cristiano.Lautert\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -104,8 +104,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\BasicOperations\\CoreOperations.csproj": {
-              "projectPath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\BasicOperations\\CoreOperations.csproj"
+            "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF_2\\CalculatorMEF\\BasicOperations\\CoreOperations.csproj": {
+              "projectPath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF_2\\CalculatorMEF\\BasicOperations\\CoreOperations.csproj"
             }
           }
         }

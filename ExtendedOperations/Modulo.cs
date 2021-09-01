@@ -4,12 +4,17 @@ using static BasicOperations.CalculatorMefInterfaces;
 namespace ExtendedOperations
 {
     [Export(typeof(IOperation))]
-    [ExportMetadata("Symbol", '%')]
+    [ExportMetadata("Operador", '%')]
     public partial class Modulo : IOperation
     {
         public int Operate(int left, int right)
         {
             return left % right;
+        }
+
+        public int Version()
+        {
+            return 1;
         }
     }
 }

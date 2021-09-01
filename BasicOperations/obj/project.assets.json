@@ -64,11 +64,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\BasicOperations\\CoreOperations.csproj",
+      "projectUniqueName": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF_2\\CalculatorMEF\\BasicOperations\\CoreOperations.csproj",
       "projectName": "CoreOperations",
-      "projectPath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\BasicOperations\\CoreOperations.csproj",
+      "projectPath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF_2\\CalculatorMEF\\BasicOperations\\CoreOperations.csproj",
       "packagesPath": "C:\\Users\\Cristiano.Lautert\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\BasicOperations\\obj\\",
+      "outputPath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF_2\\CalculatorMEF\\BasicOperations\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cristiano.Lautert\\AppData\\Roaming\\NuGet\\NuGet.Config",

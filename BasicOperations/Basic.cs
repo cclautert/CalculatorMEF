@@ -12,30 +12,46 @@ namespace BasicOperations
         public partial interface IOperation
         {
             int Operate(int left, int right);
+            int Version();
         }
+
+        //public partial interface IOperation
+        //{
+        //    int Version();
+        //}
 
         public partial interface IOperationData
         {
-            char Symbol { get; }
+            char Operador { get; }
         }
 
         [Export(typeof(IOperation))]
-        [ExportMetadata("Symbol", '+')]
+        [ExportMetadata("Operador", '+')]
         public partial class Add : IOperation
         {
             public int Operate(int left, int right)
             {
                 return left + right;
             }
+
+            public int Version()
+            {
+                return 1;
+            }
         }
 
         [Export(typeof(IOperation))]
-        [ExportMetadata("Symbol", '-')]
+        [ExportMetadata("Operador", '-')]
         public partial class Subtract : IOperation
         {
             public int Operate(int left, int right)
             {
                 return left - right;
+            }
+
+            public int Version()
+            {
+                return 1;
             }
         }
     }

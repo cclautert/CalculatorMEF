@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "l63NMKTYgolUnaFEQiLGR/r8gE67tt3M3SmROHRe2tbK3M49jRGCGPBuAUhbhIVTGKOsrU5ky8XC4aA5IhLc9w==",
+  "dgSpecHash": "NVMDFKIJlv2BQtEC9rlYk8Bu9lYOGyoWn9H55EIF2Oz2s7t/a4B8jR5qDuy/MOe3N/XDEKm37BzidKFvUeQlNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF\\CalculatorMEF\\CalculatorMEF.csproj",
+  "projectFilePath": "C:\\Users\\Cristiano.Lautert\\source\\repos\\CalculatorMEF_2\\CalculatorMEF\\CalculatorMEF\\CalculatorMEF.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Cristiano.Lautert\\.nuget\\packages\\system.componentmodel.composition\\5.0.0\\system.componentmodel.composition.5.0.0.nupkg.sha512"
+    "C:\\Users\\Cristiano.Lautert\\.nuget\\packages\\system.componentmodel.composition\\5.0.0\\system.componentmodel.composition.5.0.0.nupkg.sha512",
+    "C:\\Users\\Cristiano.Lautert\\.nuget\\packages\\system.composition.attributedmodel\\5.0.0\\system.composition.attributedmodel.5.0.0.nupkg.sha512",
+    "C:\\Users\\Cristiano.Lautert\\.nuget\\packages\\system.composition.hosting\\5.0.0\\system.composition.hosting.5.0.0.nupkg.sha512",
+    "C:\\Users\\Cristiano.Lautert\\.nuget\\packages\\system.composition.runtime\\5.0.0\\system.composition.runtime.5.0.0.nupkg.sha512",
+    "C:\\Users\\Cristiano.Lautert\\.nuget\\packages\\system.composition.typedparts\\5.0.1\\system.composition.typedparts.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }
